@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://www.mohammedfayizt.me">Portfolio</a> ·
   <a href="https://www.linkedin.com/in/mohammedfayizt/">LinkedIn</a> ·
-  <a href="mailto:">GitHub</a>
+  <a href="https://github.com/MOHAMMEDFAYIZT">GitHub</a>
 </p>
 
 ---
